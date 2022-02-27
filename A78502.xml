@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certamen Brittanicum, Gallico Hispanicum. A true relation of a conference holden between Charles Stuart King of Scots, Don Lewis de Haro, and the Cardinall Mazarine, the two grand favorites of the courts of France and Spaine. Wherein is touched something of the interests of the said states one to the other, and of both in relation to the said King of Scots. As also how much it hath been endeavoured to make him turn Catholike, with his constant resolution to live and dye in the true Protestant religion. Sent in a letter to the Prince of Conde, and by his secretary to a freind of private trust in England, who hath caused the same to be faithfuly rendred into English out of the Spanish copie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78502</idno>
+            <idno type="STC">Wing C1765</idno>
+            <idno type="STC">Thomason E1005_16</idno>
+            <idno type="STC">ESTC R207923</idno>
+            <idno type="EEBO-CITATION">99866941</idno>
+            <idno type="PROQUEST">99866941</idno>
+            <idno type="VID">119230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119230)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certamen Brittanicum, Gallico Hispanicum. A true relation of a conference holden between Charles Stuart King of Scots, Don Lewis de Haro, and the Cardinall Mazarine, the two grand favorites of the courts of France and Spaine. Wherein is touched something of the interests of the said states one to the other, and of both in relation to the said King of Scots. As also how much it hath been endeavoured to make him turn Catholike, with his constant resolution to live and dye in the true Protestant religion. Sent in a letter to the Prince of Conde, and by his secretary to a freind of private trust in England, who hath caused the same to be faithfuly rendred into English out of the Spanish copie.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November]. 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Mazarin, Jules, 1602-1661 --  Early works to 1800.</term>
+               <term>Méndez de Haro, Luis, 1598-1661 --  Early works to 1800.</term>
+               <term>Spain --  History --  Philip IV, 1621-1665 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119230:1" rendition="simple:additions"/>
+            <p>
+               <hi>Certamen Brittanicum, Gallico Hiſpanicum.</hi>
+            </p>
+            <p>A TRUE RELATION Of a Conference holden between CHARLES STUART King of Scots, <hi>Don LEWIS de HARO,</hi> AND THE <hi>Cardinall Mazarine, the two Grand Favo<g ref="char:EOLhyphen"/>rites of the Courts of France and Spaine.</hi>
+            </p>
+            <p>
+               <hi>WHEREIN</hi> Is touched ſomething of the Intereſts of the ſaid States one to the other, and of both in relati<g ref="char:EOLhyphen"/>on to the ſaid KING of SCOTS.</p>
+            <p>
+               <hi>AS ALSO</hi> How much it hath been endeavoured to make Him turn <hi>Catholike,</hi> with his conſtant Reſolution to live and dye in the true Proteſtant Religion.</p>
+            <p>Sent in a Letter to the Prince of <hi>Conde,</hi> and by his Secretary to a Freind of private truſt in <hi>England,</hi> who hath cauſed the ſame to be faithfuly rendred into <hi>Engliſh</hi> out of the <hi>Spaniſh Copie.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119230:2"/>
+            <pb n="1" facs="tcp:119230:2"/>
+            <head>Certamen Brittannicum, Gallico Hiſpanicum.</head>
+            <head type="sub">A True Relation of a conference holden between <hi>Charles Stuart</hi> King of <hi>Scots, Don Lewis de Haro,</hi> and the Cardinall <hi>Mazarine</hi> the two Grande Favorites of the Courts of <hi>France</hi> and <hi>Spaine.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE two State Favorites and grande Politi<g ref="char:EOLhyphen"/>tians of <hi>Europe Don Lewis de Haro</hi> and Cardinall <hi>Mazarine</hi> the two publike Em<g ref="char:EOLhyphen"/>baſſadours for the Kings of <hi>Spaine</hi> and <hi>France</hi> to mannage the treaty of <hi>marriage</hi> between the ſaid <hi>King</hi> of <hi>France</hi> and the <hi>Infant</hi> of <hi>Spaine,</hi> having according to former reſolutions met on on the borders of both Kingdomes, after many nicetyes ſatisfied, objections reſolved, and ſeverall ceremonious complements of reſpect paſt, they began to conſult of thoſe things, the ſetling whereof was the foundation of their meeting: wherein among other things, it fell into conſideration, who ſhould be included within the articles
+<pb n="2" facs="tcp:119230:3"/>of the peace to be concluded thereby and who debarred, amongſt whom the Cardinall deſired that the <hi>King of Scots</hi> might be one in regard his Maſter had (contrary to the Law of Nations, friendſhip and alliance) <hi>baniſhed</hi> him out of his Court and Kingdome: whereupon <hi>Don Lewis</hi> anſwered, there is the more reaſon he ſhould be taken in, for though his neereſt <hi>kindred,</hi> who had former<g ref="char:EOLhyphen"/>ly been obliged to his <hi>Father,</hi> had forced him to retreate from among them, yet ſeeing he had caſt himſelfe upon his Maſter, he ſhould finde he did not relye on a <hi>broken</hi> reede, which while he truſted would run into his hand, but that he would be to him as <hi>Caſtle</hi> of defence, where<g ref="char:EOLhyphen"/>in he might ſhelter him from the injurious ſtormes which undeſervedly did threaten him, ſo that whether or no he be nominally admitted by you it much matters, ſince he is an <hi>allye,</hi> a <hi>friend</hi> and <hi>confederate</hi> of my maſters, all whoſe allyes <hi>muſt</hi> and <hi>ſhall</hi> be neceſſarily included. Many dayes and much time being ſpent in theſe de<g ref="char:EOLhyphen"/>bates: and notice thereof being brought to the <hi>King</hi> of <hi>Scots,</hi> he thought it very convenient to goe to the place of meeting, and there to make his application to that noble perſon who had ſtood up ſo much for his inte<g ref="char:EOLhyphen"/>reſt, and having at laſt attained to the end of his journey, (hoping to Crowne this beginning of his deſires with ſucceſſe) he went privately to the Lord <hi>Don Lewis,</hi> who though ſomewhat aſtoniſhed at his ſudden and unexpect<g ref="char:EOLhyphen"/>ed arrivall did yet nevertheleſſe treate him with many ex<g ref="char:EOLhyphen"/>traordinary civilityes, the uſuall teſtimonyes of a condi<g ref="char:EOLhyphen"/>all affection, with promiſe in convenient time to procure a meeting between themſelves, and the <hi>Cardinall,</hi> in which they would conſult what was neceſſary, and what was fit to be done, whereby he ſhould ſee, that no ſtone ſhould
+<pb n="3" facs="tcp:119230:3"/>be unturned, if it might raiſe him an advantage or pro<g ref="char:EOLhyphen"/>cure him an aſſiſtance, ſo as he on his part, would not ſtand in his own light, and run himſelfe into a <hi>Dilemma,</hi> with too much <hi>obſtinacy</hi> in ſome particulars, at which time they parted with a reaſſurance of a future meeting ſuddenly.</p>
+            <p>According to his promiſe about the midſt of <hi>September</hi> laſt paſt the <hi>Spaniſh Grandee</hi> gained a meeting: where they after ſome reſpects (each reſerving to himſelfe his own <hi>Grandezza, Don Lewis</hi> began; there hath been, Sir, ſome controverſy between the Cardinall his <hi>Eminency</hi> and my ſelfe about your intereſt, I judging it neceſſary that upon a concluſion of a peace between <hi>two</hi> the moſt potent Princes of <hi>Europe,</hi> (a <hi>third</hi> being now diſtreſſed through the malevolent diſpoſitions of ill affected and re<g ref="char:EOLhyphen"/>bellious ſubjects ſhould not be left out, whereunto the <hi>Cardinall</hi> replyed, I confeſſe it is a work of charity and piety, but where the intereſt of the ſtate whereof I am a ſubject, cannot but ſuffer by ſuch a conceſſion, I muſt crave pardon: you know or at the leaſt have heard, how the <hi>King</hi> my Maſter was compelled to make a peace with the <hi>Engliſh State,</hi> and upon what unequall term we gain<g ref="char:EOLhyphen"/>ed the ſame, he left many of his friends and kindred in the in the <hi>Lurch,</hi> and was glad to give <hi>Dunkirk</hi> and ſome other places for the purchaſe therof. He was particularly bound to baniſh <hi>this noble perſon</hi> here preſent and never to aide or aſſiſt him, but to take all perſons, his friend, and allves to be our enemies, ſo that I cannot <hi>ſaluo honore regiae majeſta<g ref="char:EOLhyphen"/>tis,</hi> conclude any thing as to that point.</p>
+            <p>And doth my <hi>Coſen</hi> truly (ſaid the <hi>King</hi> of <hi>Scots</hi>) ſo highly prize his ſo dearly bought peace: ſurely he cannot but know that the perſon with whom he made, it was no
+<pb n="4" facs="tcp:119230:4"/>better then a <hi>regicide,</hi> a perſon who waſhed his hands in the ſacred <hi>blood</hi> of his <hi>King,</hi> without any juſt or equall quarrell, for to him and his villanous retinew all things were lawfull that might any way ſerve their turn, all their <hi>actions</hi> and paſſions how diverſe and inconſtant ſoever were in their <hi>ambition</hi> ſwallowed up and thereinto con<g ref="char:EOLhyphen"/>verted, they forbeare no manner of <hi>murthers,</hi> breach of <hi>faith</hi> and buying other mens fidelity, they eſteeme as a vertue and think no place ſtrong where an horſe laden with <hi>gold</hi> may enter, not any <hi>Citty</hi> or State unconquera<g ref="char:EOLhyphen"/>ble, where any of the greateſt hope to be made greater can looſe the ſenſe of other mens <hi>ſorrow</hi> and <hi>ſubjection:</hi> pardon my deviation, he that ſpeakes of his owne greifes, of his owne troubles ſpeakes ſenſible: ſuch then I ſay, were the men your <hi>Maſters</hi> men, ſubjected himſelfe to: and I pray for what reaſon, why out of a ſpirit of revenge the <hi>one</hi> ſought, the <hi>other</hi> did conclude a peace, the <hi>firſt</hi> to ſatisfie his deſire on the Prince of <hi>Conde,</hi> the <hi>other</hi> that he might fulyll his cruelty towards <hi>me.</hi>
+            </p>
+            <p>Truly ſaid <hi>Don Lewis</hi> and that poſſibly might be the de<g ref="char:EOLhyphen"/>ſigne of both; for I know the <hi>King of Spain</hi> was tampered with, to the ſame purpoſe and when by policy and under<g ref="char:EOLhyphen"/>mining the effect could not be attained, then ſtraight a <hi>war</hi> was included with <hi>Spaine, Jamarca</hi> ſeized on by vio<g ref="char:EOLhyphen"/>lence, and <hi>Dunkirk</hi> with ſome few other places ſtollen in<g ref="char:EOLhyphen"/>to by craft, but I really beleive, that if they ſhould take a veiw of their <hi>Treaſury</hi> and but reckon the <hi>men</hi> thoſe in<g ref="char:EOLhyphen"/>conſiderable places have coſt them, they would quickly find the <hi>blood</hi> and <hi>treaſure</hi> hugely to over-ballance the <hi>worth</hi> thereof. For what advantage have they gotten thereby for <hi>Jamaica</hi> is ſo poore a place, that without con<g ref="char:EOLhyphen"/>tinuall freſh ſupplyes the ſouldyary and people there
+<pb n="5" facs="tcp:119230:4"/>muſt <hi>ſtarve,</hi> and then obſerve but the danger of bringing in proviſion, the place being wholly invironed with Iſlands under the King of <hi>Spaines</hi> dominion well fortified, well attended on by ſhips and populouſly rich and the whole place will not countervaile either half the danger or charge. And as for <hi>Dunkirk</hi> which they boaſt is the key into <hi>Flanders,</hi> if they can make no better uſe thereof for the future, then they have hitherto done, it may poſſibly prove to them <hi>mors in olla,</hi> a thing of ſo hard a digeſtion that their greedy ſtomacks ſhall be forced to reſtore, let it be as it will, quoth the <hi>Cardinll,</hi> we ſhall endeavour to hold out own and neither meddle in the ſettling or unſet<g ref="char:EOLhyphen"/>ling Common-wealths or Kingdomes.</p>
+            <p>'Tis well, anſwered the <hi>King</hi> of <hi>Scots,</hi> but you were I am ſure of another minde when <hi>you</hi> were <hi>baniſhed</hi> out of <hi>France:</hi> but the wheele with you was quickly round, thanks to your policy, and <hi>Machiavellian</hi> principles: but as to the maine point for this is but beating about the buſh, my deſire is that as in this happy treaty and conclu<g ref="char:EOLhyphen"/>ſion of a peace, and a marriage, moſt of the Princes, and ſtates of <hi>Europe</hi> will have a ſhare of happineſſe, I alone may not be ſet aſide: and I am very well aſſured, that if my condition (as being moſt wrongfully expulſed out of my <hi>Fathers</hi> Kingdome and <hi>my</hi> lawfull inheritance) were but taken in among the reſt of your friends, the ve<g ref="char:EOLhyphen"/>ry ſenſe thereof would ſo move other neighbour Princes and ſtates, that they would ſuddenly turn their many pro<g ref="char:EOLhyphen"/>miſes into actions, and inſtead of <hi>words</hi> aide me with Swords.</p>
+            <p>I muſt deale ingeniouſly with you, ſaid <hi>Don Lewis,</hi> it is the intent of my <hi>Maſter</hi> to take you in as an Ally and Friend: and I am ſure having him, you gaine the whole
+<pb n="6" facs="tcp:119230:5"/>houſe of <hi>Auſtria,</hi> who by reaſon of their great power and ſway in the <hi>Empire,</hi> (as having the Emperor of their kind<g ref="char:EOLhyphen"/>red) command the cheife and greateſt part of <hi>Europe:</hi> for by that meanes all the <hi>Catholike</hi> Princes there will be aſ<g ref="char:EOLhyphen"/>ſiſtant: and if you but weigh the alliance between theſe, the <hi>Dane,</hi> the <hi>Pole,</hi> and ſeverall others, in the whole, it will be found that two third parts of <hi>Europe</hi> will all follow.</p>
+            <p>I muſt confeſſe replyed the Cardinall, you have ſaid much to the purpoſe, the Leagues and Alliances you have ſpoken of are many and very ſtrong, but moſt of them will find buſineſſe enough to defend themſelves againſt the <hi>Swede</hi> and his partakers, for though by the new League they may ſeem ſorely to threaten him, yet he is able by <hi>Himſelfe</hi> and his <hi>Confederates</hi> (as he hath done ſome years already) to find them imployment at home.</p>
+            <p>Indeed (retorted the <hi>King</hi> of <hi>Scots</hi>) I think your cheif hopes is on the King of <hi>Sweden,</hi> who if I be not miſtaken, is in the <hi>League</hi> with your Eminencyes Maſter, as alſo with <hi>my Enemies:</hi> but I hope (and ſomething I have of confidence to aſſure me thereof) that the <hi>Marqueſs</hi> of <hi>Brandenburgh</hi> (not to mention <hi>my Coſen</hi> of the <hi>Palatanate</hi>) who is late joyned with the <hi>Emperor</hi> and houſe of <hi>Auſtria,</hi> will ſo pull his fethers, that on a ſudden he ſhall not flye farre abroad.</p>
+            <p>It may be ſo (anſwered the Cardinall) but now ad<g ref="char:EOLhyphen"/>mitting all your hopes to be certainties, they will little availe, for his <hi>Holineſſe</hi> is not at all thought of : and with out all diſpute he will goe farre in <hi>Italy:</hi> 'tis true, <hi>Italy</hi> is divided into four parts, viz. <hi>Lumbardy, Tuſcany,</hi> St. <hi>Peters Patrimony;</hi> and <hi>the Kingdome of Naples:</hi> In <hi>Lumbardy</hi> ſtand many rich Governments, as the Dukedome of <hi>Mil<g ref="char:EOLhyphen"/>layne</hi> (which is my Maſters) of <hi>Mantua,</hi> of <hi>Florence,</hi> and
+<pb n="7" facs="tcp:119230:5"/>others of leſſe note: none of which you have mentioned; theſe together St. <hi>Peters Patrimony,</hi> and the State of <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> are all at his <hi>Holineſs</hi> beck.</p>
+            <p>What then (anſwered <hi>Don Lewis</hi>) is not my <hi>Maſter</hi> the eldeſt ſon of the <hi>Church?</hi> I am confident his <hi>Holineſs</hi> will as ſoon bend towards him as the greateſt. Is not the Kingdome of <hi>Naples</hi> his? are not you to deliver him the Dukedome of <hi>Millayne?</hi> Doth not he keep a good Fleet of Galleyes at <hi>Otrauto</hi> continually, which is the neereſt paſſage from <hi>Italy</hi> into <hi>Greece</hi> to prevent any in<g ref="char:EOLhyphen"/>vaſion from the <hi>Turkes:</hi> why then ſhould <hi>he</hi> have leſſe hopes of his <hi>Holineſs</hi> then <hi>you.</hi> And I dare preſume that if his Majeſty of <hi>Scotland</hi> here preſent will be but <hi>reconciled</hi> to the <hi>Church</hi> of <hi>Rome,</hi> all difficulties will ſo eaſily be re<g ref="char:EOLhyphen"/>moved: that he ſhall but ask and have Men, moneys, am<g ref="char:EOLhyphen"/>munition, Ships, and what not, without the help or thanks of your Maſter, or his Freinds who have already once <hi>apoſtatized</hi> from him.</p>
+            <p>I muſt confeſſe (anſwered the <hi>King</hi> of <hi>Scots</hi>) I would very willingly be <hi>reinſtated</hi> in my Kingdomes and would even give, <hi>forgive,</hi> grant or doe any thing even beyond ex<g ref="char:EOLhyphen"/>pectation to be hoped from me to come to that happy<g ref="char:EOLhyphen"/>neſſe, but to ſeek or gain them, and to looſe or hazard my hopes of <hi>Heaven,</hi> I dare not, I cannot, for I ſhall ſooner chooſe to dye an <hi>exile</hi> from my <hi>native</hi> Country then to baniſh or change the <hi>Religion</hi> I have been bred and born in for a ſettlement there.</p>
+            <p>Alas (anſwered the Cardinall) what is your <hi>Religion</hi> but a new fangle, a thing never thought of till <hi>Luther</hi>'s time. I deny that (replyed the <hi>King</hi>) for it is the <hi>ſame</hi> in its purity which was profeſſed in the <hi>primitive</hi> Church, ſo that it is as old as Chriſtianity at ſelfe: and all along
+<pb n="8" facs="tcp:119230:6"/>hath been upheld (but with ſome mixtures I muſt con<g ref="char:EOLhyphen"/>feſſe) I need not ſay much herein, a great part of the World are therein as well ſatisfied as my ſelfe.</p>
+            <p>Yea (replyed <hi>Don Lewis</hi>) but you cannot ſhew that it was ever <hi>openly</hi> preached or profeſſed till of <hi>late</hi> dayes.</p>
+            <p>I ſuppoſe (anſwered the <hi>King</hi>) your excellency in this point is miſinformed, what think you of the <hi>Waldenſes,</hi> of <hi>John Wickliffe</hi> who openly preached and upheld the ſame even in the publick and famous Univerſity of <hi>Oxford,</hi> in the time of King <hi>Edward</hi> the third of <hi>England,</hi> and favou<g ref="char:EOLhyphen"/>red by <hi>John</hi> of <hi>Gaunt</hi> Duke of Lancaſter, and other great men of that time: Were <hi>John Huſſe</hi> and <hi>Hierom</hi> of <hi>Prague</hi> no body, who in defence thereof, both ſacrificed their lives. It is founded upon the word of God, and is the ſame which is taught in the Doctrine of the <hi>Prophets:</hi> yea by <hi>Chriſt</hi> himſelfe, and his <hi>Apoſtles,</hi> and is of greater antiqui<g ref="char:EOLhyphen"/>ty then that which is grounded but upon the <hi>decrees</hi> of <hi>counſels</hi> and <hi>humane traditions:</hi> but I ſhall not argue any further thereof, for I am no <hi>Prophet,</hi> nor no Prophets Son.</p>
+            <p>But quoth the Cardinall this <hi>obſtinacy</hi> will never do you good: your <hi>Father</hi> might have ſtill b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en a King, or you his peacefull Succeſſor, if he had not been <hi>ſo reſolutely</hi> bent in theſe points: And for this very cauſe, I take ex<g ref="char:EOLhyphen"/>ceptions againſt you: you know what <hi>Machiavell</hi> ſaith, It matters not whether a Prince have <hi>Religion</hi> or no, ſo he make a pretence thereof ſufficient to ſerve his own ends: you muſt learne to transforme your ſelfe into any ſhape, for <hi>Qui neſcit diſſimulare, neſcit regnare.</hi> It is uſually found in Counſels of <hi>State,</hi> that the <hi>buſie</hi> heads of a few doe carry <hi>all</hi> the reſt: And many times Men make a ſur<g ref="char:EOLhyphen"/>render of their own judgements to <hi>him</hi> that hath got<g ref="char:EOLhyphen"/>ten
+<pb n="9" facs="tcp:119230:6"/>a name by giving happy directions in troubles <hi>forepast.</hi>
+            </p>
+            <p>A faire Argument hath your <hi>Eminency</hi> uſed (ſaid the <hi>King</hi>) but I doubt hardly ſufficient to work on me: for I am like <hi>Antigonus</hi> (one of <hi>Alexanders</hi> Captaines) who was as good a Man of Warre, of as deep judgment, as high a ſpirit, and as great undertaking as any of the reſt, but his <hi>employment</hi> was leſſe, which made him leſſe reſpe<g ref="char:EOLhyphen"/>cted, but his thoughts were as high as theirs, for he valued himſelfe by his own worth, not by the opinion of others, in like manner, I though at preſent kept an <hi>exile</hi> by thoſe who ought to be my Subjects, have yet nevertheleſſe the <hi>thoughts</hi> of a <hi>King:</hi> for why may not the ſame providence that caſt me of, put me in again, <hi>Saepe redit pulſâ nube ſerena dies.</hi>
+            </p>
+            <p>In truth (ſaid <hi>Don Lewis</hi>) your reſolution is much to be commended, and generally we finde good ſucceſſe to be the reward of a well grounded patience, and if you can with the contented minde of <hi>Socrates,</hi> conclude that every place is the wiſe Mans Country, and all parts a Palace to a quiet minde, you will not miſſe the reward of your pa<g ref="char:EOLhyphen"/>tience, for <hi>Saepe premente Deo fert Deus alter opem.</hi> And for my own part, I do here proteſt to your Majeſty, that I ſhall in what I may aſſiſt you, and that I will be earneſt with the <hi>King</hi> of <hi>Spaine</hi> my Maſter to that purpoſe.</p>
+            <p>But I pray (quoth the Cardinall) let not your <hi>excel<g ref="char:EOLhyphen"/>lency</hi> be over haſty, for ſince it hath pleaſed the divine providence to bring the affaires of theſe two <hi>great Crownes</hi> to ſo hopefull a period: I hope this ſhall not be any cauſe of breach, and therefore ſhall rather honour this <hi>noble Prince</hi> with the title of freind: Some of his <hi>evill-willers</hi> we have ſeen to <hi>fall,</hi> thoſe that have riſen have waded through
+<pb n="10" facs="tcp:119230:7"/>a <hi>Sea</hi> of <hi>blood:</hi> And thoſe that now remaine are ready to deſtroy one another about <hi>parting the Stakes,</hi> I wiſh there<g ref="char:EOLhyphen"/>fore the effects may prove ſucceſsfull, and that the event of our conference may be a happy amen towards his ſettlement.</p>
+            <p>Yet if you pleaſe (quoth <hi>Don Lewis</hi> to the <hi>King</hi>) I ſhall not adviſe you to truſt to the <hi>inconſtancy</hi> of the <hi>French</hi> Nation: but rather that you will goe to the Court of <hi>Spaine,</hi> where your <hi>retreate</hi> ſhall be warranted and <hi>ſafe,</hi> whereupon after many congratulation<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on both ſides at the preſent they parted.</p>
+            <p>This is the exact relation of the conference, as neere as poſſibly could be gathered, which for publick ſatisfaction I have here made publick, that the World may ſee that that poor baniſhed <hi>Prince</hi> the <hi>King</hi> of <hi>Scots</hi> is neither ſo helpleſs nor freindleſs as many Men imagine.</p>
+            <p>Shortly after this conference ended, the <hi>King</hi> took his courſe directly for the <hi>Court</hi> of <hi>Spaine,</hi> where according to information from thence ſince received, he is ſafely arrived, and with courteſie and humanity enter<g ref="char:EOLhyphen"/>tained.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
